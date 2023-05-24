@@ -1,0 +1,67 @@
+.rdw-option-wrapper {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.rdw-dropdown-wrapper {
+  background: transparent !important;
+
+  &:hover {
+    box-shadow: none !important;
+  }
+}
+
+.rdw-dropdown-optionwrapper {
+  box-shadow: none !important;
+  padding: 6px 12px !important;
+  margin: 6px 0 !important;
+}
+
+.rdw-editor-toolbar {
+  border: none !important;
+  border-radius: 24px !important;
+  background: #edf2fa !important;
+  box-shadow: none !important;
+  margin: 6px 18px;
+  padding-left: 12px !important;
+  gap: 1rem !important;
+  position: fixed !important;
+  top: 58px !important;
+  width: 93% !important;
+  z-index: 1000 !important;
+}
+
+.editor-wrapper {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 200px;
+}
+
+.editor {
+  height: 650px;
+  width: 100% !important;
+  overflow-y: scroll !important;
+}
+
+.rdw-option-active {
+  background: #d3e3fd !important;
+  padding: 6px !important;
+}
+
+.rdw-dropdown-selectedtext {
+  background: #fff !important;
+  border-radius: 4px !important;
+  min-width: 60px !important;
+}
+
+.rdw-editor-main {
+  min-height: 1056px !important;
+  width: 816px !important;
+  margin: 1.25rem auto !important;
+  max-width: 816px !important;
+  outline: 1px solid #c7c7c7 !important;
+  top: 50px !important;
+  position: relative !important;
+  overflow-y: scroll !important;
+}
