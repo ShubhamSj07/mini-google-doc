@@ -1,5 +1,5 @@
 <p align="center">
- Shubham | Mini Google Clone Doc Assessment
+ Shubham | Mini Google Doc UI Assessment
 </p>
 
 <h4 align="center">
